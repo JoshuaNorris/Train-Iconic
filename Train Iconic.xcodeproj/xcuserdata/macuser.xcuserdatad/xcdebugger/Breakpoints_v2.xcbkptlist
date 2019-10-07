@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "28498A54-F5AB-4863-9DE9-017E3B83855C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B30FBEC-0888-4628-8F06-C161BA360726"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Train IconicTests/UserDatabaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "testDatabaseIncrementWorkout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99201EF4-0C8E-43EA-ACC6-3BA4A5501B44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Train IconicTests/UserDatabaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testDatabaseIncrementWorkout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE403D6C-B48A-4C6B-8920-41DCB5066DC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Train IconicTests/UserDatabaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "testDatabaseIncrementWorkout()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51245FFD-A9A1-418F-8A85-1A9FFD5A2405"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Train IconicTests/UserDatabaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "testInsertTheUserOnlyOnce()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Train IconicTests/ExerciseDatabaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27 - 6da43db369a15383"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27 - 7f33698469bf36f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27 - 6524afeffb9732dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27 - 154c324e5351b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.init(selector: ObjectiveC.Selector) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27 - e3b2880e9d0b536f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__allocating_init() -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27 - be77f1b513e9111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.init() -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "38E406E0-6ACE-47C7-8764-08DE1FDB4F27 - fd21b1177d1e3af3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__deallocating_deinit"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Train IconicTests/ExerciseDatabaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ExerciseDatabaseTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B - 6da43db369a15383"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B - 7f33698469bf36f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B - 6524afeffb9732dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B - 154c324e5351b94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.init(selector: ObjectiveC.Selector) -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B - e3b2880e9d0b536f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__allocating_init() -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B - be77f1b513e9111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.init() -&gt; Train_IconicTests.ExerciseDatabaseTests"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "D978ED13-6D49-477F-B9ED-79A5ECEE991B - fd21b1177d1e3af3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Train_IconicTests.ExerciseDatabaseTests.__deallocating_deinit"
+                  moduleName = "Train IconicTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macuser/IOS%20Applications/Train%20Iconic/Train%20IconicTests/ExerciseDatabaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
