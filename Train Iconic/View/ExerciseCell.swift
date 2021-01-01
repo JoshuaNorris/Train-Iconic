@@ -34,7 +34,7 @@ class ExerciseCell: UITableViewCell {
         updateCheckmarkButton(isCompleted: exercise.completed)
         self.exerciseTitleLabel.text = exercise.title
         if exercise.repCount != nil {
-            self.repCountLabel.text = String(exercise.repCount!)
+            self.repCountLabel.text = "Reps: " + String(exercise.repCount!)
         }
     }
     
